@@ -1,0 +1,14 @@
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\SuperFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\SuperFarmer.AssemblyInfoInputs.cache
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\SuperFarmer.AssemblyInfo.cs
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\SuperFarmer.csproj.CoreCompileInputs.cache
+C:\Users\Sornat\Desktop\SuperFarmer\bin\Debug\net8.0\SuperFarmer.exe
+C:\Users\Sornat\Desktop\SuperFarmer\bin\Debug\net8.0\SuperFarmer.deps.json
+C:\Users\Sornat\Desktop\SuperFarmer\bin\Debug\net8.0\SuperFarmer.runtimeconfig.json
+C:\Users\Sornat\Desktop\SuperFarmer\bin\Debug\net8.0\SuperFarmer.dll
+C:\Users\Sornat\Desktop\SuperFarmer\bin\Debug\net8.0\SuperFarmer.pdb
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\SuperFarmer.dll
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\refint\SuperFarmer.dll
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\SuperFarmer.pdb
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\SuperFarmer.genruntimeconfig.cache
+C:\Users\Sornat\Desktop\SuperFarmer\obj\Debug\net8.0\ref\SuperFarmer.dll
