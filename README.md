@@ -32,4 +32,4 @@ dotnet run
 ## Autorzy
 - Jakub Sornat (jakubsornat2001@gmail.com)
 
-## Wkład
+
